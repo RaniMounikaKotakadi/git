@@ -1,3 +1,4 @@
 git clone <repo url>
 git add [. or * or file name or directory name]
 git commit
+git commit -m "<message for commit>"
